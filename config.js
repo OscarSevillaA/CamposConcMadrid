@@ -80,7 +80,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Alcalá de Henares',
-            image: './assets/03-Alcalá2.jpg',
+            image: '03-Alcalá2.jpg',
             description: 'Campo estable. Ubicado en el manicomio. Llegó a reunir a más de 3.700 prisioneros. Operó entre el 31 de marzo de 1939 y diciembre de ese año en que pasó a ser considerado prisión. Sus edificaciones forman hoy parte del Acuartelamiento Primo de Rivera.',
             location: {
                 center: [-3.35625, 40.50192],
@@ -99,7 +99,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Estadio Santiago Bernabéu',
-            image: './assets/04-Chamartin.jpg',
+            image: '04-Chamartin.jpg',
             description: 'Campo provisional. Ubicado en el campo de fútbol del Viejo Chamartín, donde jugaba el Real Madrid. En él llegaron a hacinarse entre 15.000 y 20.000 prisioneros. Operó, al menos, durante abril de 1939. Su lugar lo ocupa hoy el estadio Santiago Bernabéu.',
             location: {
                 center: [-3.68836, 40.45305],
@@ -118,7 +118,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Estadio Metropolitano',
-            image: './assets/05-Metropolitano.jpg',
+            image: '05-Metropolitano.jpg',
             description: 'Campo provisional. Ubicado en el campo de fútbol del Athletic Club de Madrid. Lo custodiaba el Batallón Cruces Negras de la Victoria de la Falange. Operó, al menos, durante abril de 1939. El lugar en que se levantaba lo ocupa hoy la Plaza de la Ciudad de Viena.',
             location: {
                 center: [-3.71667, 40.44769],
@@ -148,7 +148,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Plaza de toros Las Ventas',
-            image: './assets/06-LasVentas2.jpg',
+            image: '06-LasVentas2.jpg',
             description: 'Campo provisional. Operó durante abril de 1939.',
             location: {
                 center: [-3.66329, 40.43212],
@@ -211,7 +211,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Plaza de toros Vistalegre',
-            image: './assets/09-Vistalegre Carabanchel Bajo.jpg',
+            image: '09-Vistalegre Carabanchel Bajo.jpg',
             description: 'Campo provisional. Ubicado en la plaza de toros. Operó, al menos, durante abril de 1939. El edificio, tras numerosas remodelaciones, sigue albergando todo tipo de eventos.',
             location: {
                 center: [-3.73907, 40.38628],
@@ -241,7 +241,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Grupo Escolar Miguel de Unamuno',
-            image: './assets/10-Unamuno.jpg',
+            image: '10-Unamuno.jpg',
             description: 'Campo de larga duración. Además de la labor puramente represiva, fue uno de los lugares en los que se constituían los Batallones de Trabajadores y los Batallones Disciplinarios de Soldados Trabajadores. Operó desde, al menos, junio de 1939 hasta diciembre de 1942. Hoy el edificio mantiene su nombre y la función educativa infantil para la que fue construido. Calle Alicante, 5 28045 Madrid.',
             location: {
                 center: [-3.69321, 40.39430],
@@ -266,7 +266,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Estadio Rayo Vallecano',
-            image: './assets/11-Vallecas.jpg',
+            image: '11-Vallecas.jpg',
             description: 'Campo provisional. Ubicado en el Estadio del Puente de Vallecas. Empezó a funcionar el 1 de abril de 1939 y el día 4 ya reunía a más de 9.500 prisioneros. Operó, al menos, durante abril de 1939. En su emplazamiento se levanta hoy el campo del Rayo Vallecano.',
             location: {
                 center: [-3.61284, 40.37683],
@@ -378,7 +378,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Convento San Pascual en Aranjuez',
-            image: '',
+            image: '16-Aranjuez.jpg',
             description: 'Campo estable. Ubicado en el Convento de San Pascual. Operó desde el 31 de marzo de 1939 hasta, al menos, febrero de 1940, aunque desde mediados de julio del 39 fue rebautizado como «prisión provisional». Hoy sigue siendo un edificio religioso y un colegio.',
             location: {
                 center: [-3.60284, 40.03122],
